@@ -40,6 +40,6 @@
 ---
 
 ### 🌐 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/srinivas-peri-yob1998/)
 - **GitHub:** [github.com/MAHASHANA](https://github.com/MAHASHANA)
 
