@@ -20,7 +20,7 @@
 
 ---
 ### 🌟 Projects
-#### [Multi-Agent UAV-AMR System]
+#### [Multi-Agent UAV-AMR System](https://github.com/MAHASHANA)
 About the Project:
 This project explores a collaborative system where a TurtleBot (UGV) and Crazyflie drone (UAV) navigate through a set of predefined waypoints generated using the Traveling Salesman Problem (TSP). The TurtleBot acts as a mobile platform for the UAV’s takeoff and landing, while autonomously performing obstacle avoidance, waypoint navigation, and dynamic waypoint resampling. The UAV, after take-off, visits multiple waypoints and returns to land on the TurtleBot at its final waypoint. This report details the system’s design, implementation, and performance evaluation.
 
