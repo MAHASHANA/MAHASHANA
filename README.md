@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Srinivas Peri!
-🌟 P.S. If you're here to check out my work, you're already awesome—stay a while, and let's build something amazing together! 💻✨
+## 🌟 P.S. If you're here to check out my work, you're already awesome—stay a while, and let's build something amazing together! 💻✨
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: Autonomous robots and drones for GPS-denied environments
