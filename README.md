@@ -7,17 +7,7 @@
 - 👯 I’m looking to collaborate on: Robotics projects, AI/ML, and computer vision applications
 - 💬 Ask me about: Robotics, drones, sensor fusion, and SLAM
 - 📫 How to reach me: (drivespacesatya@gmail.com) | [LinkedIn](https://www.linkedin.com/in/srinivas-peri-yob1998/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m an avid traveler and love building things from scratch!
-
----
-### 🛠 Skills
-- **Programming Languages:** Python, C++, MATLAB
-- **Robotics Platforms:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54), ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-- **AI/ML Tools:** PyTorch, TensorFlow, YOLO, 
-- **Hardware Expertise:** Raspberry Pi, Nvidia Jetson, Arduino
-- **Protocols:** UART, I2C, MAVLink, MSP
 
 ---
 ### 🌟 Projects
@@ -32,6 +22,15 @@ The primary goal of this project is to design, implement, and train a reinforcem
 #### [LSTM-Based Traffic Prediction and Multimodal Synthetic Data Generation](https://github.com/MAHASHANA/CS6140_ML_Project)
 About the Project:
 This project investigates the methodologies and techniques employed in real-time traffic prediction, augmented by synthetic data generation using TimeGAN and other advanced models. The study focuses on analyzing and preprocessing real world traffic data, followed by generating synthetic data that closely replicates the original dataset. Through the implementation of machine learning models like Long Short-Term Memory (LSTM) networks, traffic patterns are predicted with high accuracy. Synthetic data is generated using Generative Adversarial Networks (GANs) and Synthetic Data Vault (SDV) methods, ensuring that the synthetic data retains the key statistical and structural characteristics of the original dataset. The robustness and generalization capabilities of the traffic prediction model are validated by comparing its performance on both real and synthetic datasets, highlighting the effectiveness of these approaches in real-time traffic forecasting.
+
+---
+
+### 🛠 Skills
+- **Programming Languages:** Python, C++, MATLAB
+- **Robotics Platforms:** ROS/ROS2, Gazebo, Autoware, CARLA
+- **AI/ML Tools:** PyTorch, TensorFlow, YOLO
+- **Hardware Expertise:** Raspberry Pi, Nvidia Jetson, Arduino
+- **Protocols:** UART, I2C, MAVLink, MSP
 
 ---
 
