@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Large Language Models (LLMs), LangChain, and financial analysis applications
 - 👯 I’m looking to collaborate on: Robotics projects, AI/ML, and computer vision applications
 - 💬 Ask me about: Robotics, drones, sensor fusion, and SLAM
-- 📫 How to reach me: [Email](drivespacesatya@gmail.com) | [LinkedIn](https://www.linkedin.com/in/srinivas-peri-yob1998/)
+- 📫 How to reach me: (drivespacesatya@gmail.com) | [LinkedIn](https://www.linkedin.com/in/srinivas-peri-yob1998/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m an avid traveler and love building things from scratch!
 
