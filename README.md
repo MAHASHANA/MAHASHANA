@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I’m an avid traveler and love building things from scratch!
 
 ---
-
 ### 🛠 Skills
 - **Programming Languages:** Python, C++, MATLAB
 - **Robotics Platforms:** ROS/ROS2, Gazebo, Autoware, CARLA
@@ -19,12 +18,11 @@
 - **Protocols:** UART, I2C, MAVLink, MSP
 
 ---
-
 ### 🌟 Projects
 #### [Multi-Agent UAV-AMR System](https://github.com/your-repo)
 - Designed a system for wireless charging and surveillance using UAVs and autonomous mobile robots.
 
-#### [DQN-Based Autonomous Vehicle Navigation]([https://github.com/your-repo](https://github.com/MAHASHANA/RL_Final_Project_Crala_SeflDriving/))
+#### [DQN-Based Autonomous Vehicle Navigation](https://github.com/MAHASHANA/RL_Final_Project_Crala_SeflDriving/)
 - Implemented deep reinforcement learning in CARLA to navigate complex environments.
 
 
@@ -36,6 +34,6 @@
 ---
 
 ### 🌐 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/srinivas-peri-yob1998/)
+- **LinkedIn:** [Srinivas Peri](https://www.linkedin.com/in/srinivas-peri-yob1998/)
 - **GitHub:** [github.com/MAHASHANA](https://github.com/MAHASHANA)
 
