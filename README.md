@@ -18,6 +18,8 @@ This project explores a collaborative system where a TurtleBot (UGV) and Crazyfl
 #### [DQN-Based Autonomous Vehicle Navigation]([https://github.com/MAHASHANA/RL_Final_Project_Crala_SeflDriving/](https://github.com/MAHASHANA/RL_Final_Project_Crala_SeflDriving))
 About the Project:
 The primary goal of this project is to design, implement, and train a reinforcement learning (RL) agent capable of autonomously navigating a vehicle through a variety of urban driving scenarios within the CARLA simulator. The agent will be required to make decisions in real-time that allow it to avoid obstacles, adhere to traffic regulations, and successfully reach predetermined destinations without human intervention. This project aims to demonstrate the feasibility and effectiveness of using RL techniques in solving complex navigation problems in simulated environments that closely mimic real-world conditions.
+![image](https://github.com/user-attachments/assets/5f7e14a2-33d6-44dc-9069-2d9b0f62dfeb)
+
 
 #### [LSTM-Based Traffic Prediction and Multimodal Synthetic Data Generation](https://github.com/MAHASHANA/CS6140_ML_Project)
 About the Project:
