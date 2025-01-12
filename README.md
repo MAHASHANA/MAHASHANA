@@ -13,9 +13,7 @@
 ---
 ### 🛠 Skills
 - **Programming Languages:** Python, C++, MATLAB
-- **Robotics Platforms:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+- **Robotics Platforms:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54), ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 - **AI/ML Tools:** PyTorch, TensorFlow, YOLO, 
 - **Hardware Expertise:** Raspberry Pi, Nvidia Jetson, Arduino
